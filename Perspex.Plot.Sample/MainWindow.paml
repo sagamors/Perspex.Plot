@@ -1,0 +1,7 @@
+﻿<Window xmlns="https://github.com/perspex"
+        xmlns:p="clr-namespace:Prespex.Plot;assembly=Prespex.Plot"
+        >
+    <TextBlock>Hello world!</TextBlock>
+  <p:Plot></p:Plot>
+  
+</Window>
